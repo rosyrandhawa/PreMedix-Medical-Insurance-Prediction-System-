@@ -2,6 +2,10 @@
 .
 
 🩺 Project Description – PreMedix (Medical Insurance Prediction System)
+🩺 PreMedix – AI Medical Insurance Prediction System
+
+👉 Live App: https://bbcgntfhpyzap8znrtn6nc.streamlit.app/
+
 Objective of the PreMedix Medical Insurance Prediction System
 
 The main objective of the PreMedix project is to build an end-to-end medical insurance prediction system that can:
